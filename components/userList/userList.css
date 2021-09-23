@@ -1,0 +1,11 @@
+.clickable:hover{
+    background-color:rgb(230, 230, 230);
+}
+
+.clickable{
+    color:rgb(41, 41, 41);
+}
+
+.smallThumbnail{
+    width: 100px;
+}
